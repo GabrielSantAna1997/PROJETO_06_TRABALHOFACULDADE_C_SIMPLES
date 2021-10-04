@@ -31,3 +31,8 @@ Exemplo:
 
 7 – Sair 
 
+# Em C++ é necessario acrescentar:
+#include <cstdlib>
+using namespace std;
+
+
